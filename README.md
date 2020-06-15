@@ -1,1 +1,1 @@
-# power.github.io
+ http://power.github.io
